@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Igor Bezhinarov
+# 👋 Welcome, Bienvenue, ようこそ, 환영합니다, Bienvenido, Bem-vindos, Добро пожаловать, 欢迎, 歡迎
 =======================================================================================================================================
 
 Aspiring frontend developer who will soon become great

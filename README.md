@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&duration=4000&pause=1000&color=F7F7F7&random=false&width=500&height=80&lines=Welcome%2C+Bienvenue%2C+Bienvenido%2C+Bem-vindos%2C+%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%2C+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4%2C+%E6%AC%A2%E8%BF%8E%2C+%E6%AD%A1%E8%BF%8E)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&duration=4000&pause=1000&color=F7F7F7&random=false&width=846&height=80&lines=Welcome%2C+Bienvenue%2C+Bienvenido%2C+Bem-vindos%2C+%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%2C+%ED%99%98%EC%98%81%ED%95%A9%EB%8B%88%EB%8B%A4%2C+%E6%AC%A2%E8%BF%8E%2C+%E6%AD%A1%E8%BF%8E)](https://git.io/typing-svg)
 
 Aspiring frontend developer who will soon become great
 ------------------------------------------------------

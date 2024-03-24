@@ -13,7 +13,8 @@ I'm a beginner frontend developer. My journey into it began at university back i
 <a href="https://www.github.com/theibd56" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/theibd56?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-![](https://komarev.com/ghpvc/?username=theibd56&style=for-the-badge&color=0891b2&labelColor=1c1917)
+<a href="https://www.github.com/theibd56" target="_blank" rel="noreferrer"><img
+src="https://komarev.com/ghpvc/?username=theibd56?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 ### Skills
 

@@ -65,5 +65,11 @@ I'm a beginner frontend developer. My journey into it began at university back i
 ###
 
 <div align="center">
+  <a href="https://www.codewars.com/users/theibd56" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/theibd56/badges/large"/></a>
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.github.com/theibd56" target="_blank" rel="noreferrer"><img src="https://komarev.com/ghpvc/?username=theibd56&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 </div>

@@ -2,7 +2,7 @@
 
 ###
 
-I'm a beginner frontend developer. My journey into it began at university back in 2020. After 2022, there was a short period of time where I tried myself in many directions, tried to learn the C language, Python, tried my hand at Cyber ​​Security and even developed my first anti-virus program, but most of all I was hooked on frontend development! I'm currently learning React/Redux and plan to find my first offer soon.
+I'm a beginner frontend developer. My journey into it began at university back in 2020. After 2022, there was a short period of time where I tried myself in many directions, tried to learn the C language, Python, tried my hand at Cyber ​​Security and even developed my first anti-virus program, but most of all I was hooked on frontend development! I'm currently studying Redux and plan to receive my first offer on the frontend  developer soon.
 
 * 🌍  I'm based in Russia, Novosibirsk
 * ✉️  You can contact me at [igorbezhinarov@ya.ru](mailto:igorbezhinarov@ya.ru)

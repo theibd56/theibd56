@@ -1,5 +1,3 @@
-<!--<img width="1834" alt="Make your README" src="https://github.com/user-attachments/assets/999bc8d5-de65-48a5-bf39-603006a8af21"> -->
-
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=846&height=60&lines=Welcome%2C+Bienvenue%2C+Bienvenido%2C+Bem-vindos;Hello%2C+I'm+Igor+Bezhinarov%2C+nice+to+me+you)](https://git.io/typing-svg)
 
 ###

@@ -57,7 +57,7 @@ Frontend is a developer specializing in creating interactive user interfaces. My
 ### 🔥 My GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theibd56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="200" alt="languages graph"  /> 
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theibd56&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="200" alt="languages graph"  />  -->
   <img src="https://github-readme-stats.vercel.app/api?username=theibd56&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  /> 
   <img src="https://streak-stats.demolab.com?user=theibd56&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>

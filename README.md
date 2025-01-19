@@ -2,7 +2,7 @@
 
 ###
 
-Frontend is a developer specializing in creating interactive user interfaces. My goal is to develop user-friendly, fast and attractive websites and applications that will please users and meet their expectations. In my work, I use modern technologies and development methods to ensure high quality and efficiency of projects.
+Frontend developer specializing in creating interactive user interfaces. My goal is to develop user-friendly, fast and attractive websites and applications that will please users and meet their expectations. In my work, I use modern technologies and development methods to ensure high quality and efficiency of projects.
 
 * 🌍  I'm based in Russia, Novosibirsk
 * ✉️  You can contact me at [igorbezhinarov@ya.ru](mailto:igorbezhinarov@ya.ru)

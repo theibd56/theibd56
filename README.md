@@ -6,7 +6,7 @@ Frontend developer specializing in creating interactive user interfaces. My goal
 
 * 🌍  I'm based in Russia, Novosibirsk
 * ✉️  You can contact me at [igorbezhinarov@ya.ru](mailto:igorbezhinarov@ya.ru)
-* 🧠  I'm learning a Redux
+* 🧠  I'm learning a React Native
 * 🤝  I'm open to collaborating on interesting project
 
 ### 👩‍💻 I'm on social media
